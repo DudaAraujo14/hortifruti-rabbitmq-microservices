@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ReceiverFrutas/ReceiverFrutas.csproj" />
+  <Project Path="ReceiverUsuarios/ReceiverUsuarios.csproj" />
+  <Project Path="SenderFrutas/SenderFrutas.csproj" />
+  <Project Path="SenderUsuarios/SenderUsuarios.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+  <Project Path="ValidationService/ValidationService.csproj" />
+</Solution>
